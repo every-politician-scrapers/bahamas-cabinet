@@ -1,20 +1,20 @@
 {
     "jurisdiction": {
-      "name": "XXX",
-      "id": "Qxxx"
+      "name": "The Bahamas",
+      "id": "Q778"
     },
     "cabinet": {
-      "id": "Qxxx",
-      "start": "YYYY-MM-DD",
-      "parent": "Qxxx"
+      "id": "Q108030264",
+      "start": "2017-05-15",
+      "parent": "Q5015577"
     },
     "source": {
-        "url":   "XXX",
-        "title": "XXX",
+        "url":   "https://www.bahamas.gov.bs/wps/portal/public/The%20Government/Executive/Cabinet%20Ministers/!ut/p/b1/vZTZbqNAEEW_JR-Q0M3aPLKZvdnXF4TBdowNmNhh8dePE400ixRnHibpfmrpVF_dW6UiciIl8q4c97vysu-78vj2ztmCAqotCDSyVQawQI9cS3A5jXQgcwOyGwA-OAK4W2-SREKkaQZmmdanlR4W0mHUmEucmCLAUbDd0zvT6jfAckXbPOcpjUgya7BbM9VYe94jL5FHrFC-fbG2Vg-P0nSSst5cxh3uamNZXhdmHY4G3haocDQqHH3xvABvSaoXvjdj2U5mbSHDwWZlLVDd9WFRcHeR_cCpRuv1aCFTvx75QQA8E6WnXHRK2p4gKsIVT43VgB5--r9j8J_y-wigwWf1CZHfRd5-eAfuteizJmGtbzdEdsO437AwBkCHQPAD6AGEIRESKaCLoFlO-vVw9RvOA5jTgX1gHNAk0JbdBIfqFGID241HQgDm4KpMOBRN3GyoEKduHfuRKEidGQnW34IOGfI3QQmyZsSAANBfLagyDroFwYWuwJBAdeB3C1LfGqnqOuDLHf4xNLT3_3toEPl-3T5NVfsEnhDPQoZDNI9YQNOII-ImozkZ6ZP8vmwuKnuez4OgJ-ZzqQIhOpaxsGfKVFlXQ2EsfUC_KBNVHzqKrHcVVvUqsvu-TKJ516SLI-hdTsG2lrLpIPeToTVucJLyrdS7ilm0Yisq9VDzly35GmyjWIGbON0mZRfpEUNVh5crx5ETZV7bfRsMz0xlRY8w7ka7hSbChTtnx-riDTDrM6Uz1rUfJou9C-u5Y5eVOjZrtMoMns4khM6rR9Rl3Fq8eq0kCw_EqY1G02J97bavft3p4Qd_CXcn/dl4/d5/L2dBISEvZ0FBIS9nQSEh/",
+        "title": "Cabinet Ministers - Government - Details",
         "lang":  {
             "code": "en",
             "wikidata": "Q1860"
         }
     },
-    "agent": "every-politican-scrapers/XXX"
+    "agent": "every-politican-scrapers/bahamas-cabinet"
 }
