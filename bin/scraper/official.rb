@@ -11,7 +11,9 @@ class MemberList
     end
 
     def position
-      tds[1].text.split('&').map(&:tidy)
+      tds[1].text.split(/ and (?=Minister(?! of Legal))/)
+        .flat_map { |posn| posn.split(/ and (?=Leader)/) }
+        .flat_map(&:tidy)
     end
 
     private
