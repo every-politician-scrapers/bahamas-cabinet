@@ -1,0 +1,152 @@
+{
+  "title": "Lisa Rahming",
+  "pageID": 69067627,
+  "categories": [
+    "Women government ministers of the Bahamas",
+    "Progressive Liberal Party politicians",
+    "21st-century Bahamian women politicians",
+    "Members of the House of Assembly of the Bahamas",
+    "Living people",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Lisa Tammy Rahming is a Bahamian Progressive Liberal Party politician, and attorney who has been serving as the Bahamian Minister of State for Social Services and Urban Development since 23 September 2021 and the Member of Parliament from Marathon since 6 October 2021.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Progressive Liberal Party"
+                },
+                {
+                  "text": "Member of Parliament",
+                  "type": "internal",
+                  "page": "Parliament of the Bahamas"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Lisa Tammy Rahming"
+                ]
+              }
+            },
+            {
+              "text": "Rahming defeated FNM incumbent Romi Ferreira in the 2021 general election.",
+              "links": [
+                {
+                  "text": "FNM",
+                  "type": "internal",
+                  "page": "Free National Movement"
+                },
+                {
+                  "type": "internal",
+                  "page": "Romi Ferreira"
+                },
+                {
+                  "text": "2021 general election",
+                  "type": "internal",
+                  "page": "2021 Bahamian general election"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "Hon."
+          },
+          "term_start1": {
+            "text": "6 October 2021"
+          },
+          "birth_name": {
+            "text": "Lisa Tammy Rahming"
+          },
+          "majority1": {
+            "text": "1,166 (35.62%)"
+          },
+          "predecessor1": {
+            "text": "Romi Ferreira",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Romi Ferreira"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Member of Parliament for Marathon"
+          },
+          "name": {
+            "text": "Lisa Rahming"
+          },
+          "term_start": {
+            "text": "23 September 2021"
+          },
+          "primeminister": {
+            "text": "Philip \"Brave\" Davis",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Philip \"Brave\" Davis"
+              }
+            ]
+          },
+          "office": {
+            "text": "Minister of State for Social Services and Urban Development"
+          },
+          "image": {
+            "text": "Lisa Rahming.png"
+          },
+          "honorific-suffix": {
+            "text": "MP"
+          },
+          "alma_mater": {
+            "text": "University of the Bahamas",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of the Bahamas"
+              }
+            ]
+          },
+          "party": {
+            "text": "Progressive Liberal Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Progressive Liberal Party"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "The Magnificent Seven - A new day for women in Bahamian politics",
+          "url": "http://www.tribune242.com/news/2021/sep/28/magnificent-seven-new-day-women-bahamian-politics/",
+          "access-date": "2021-10-19",
+          "website": "www.tribune242.com",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "bahamas-politician-stub"
+        }
+      ]
+    }
+  ]
+}
