@@ -316,7 +316,7 @@
               "text": "53.87%"
             },
             "col6": {
-              "text": "<div ><div style=\"width: 53.87%; background: ; font-size: 10px; line-height: 20px;\">"
+              "text": "<div >"
             }
           },
           {
@@ -344,7 +344,7 @@
               "text": "33.87%"
             },
             "col6": {
-              "text": "<div ><div style=\"width: 33.87%; background: ; font-size: 10px; line-height: 20px;\">"
+              "text": "<div >"
             }
           },
           {
@@ -372,7 +372,7 @@
               "text": "7.57%"
             },
             "col6": {
-              "text": "<div ><div style=\"width: 7.57%; background: ; font-size: 10px; line-height: 20px;\">"
+              "text": "<div >"
             }
           },
           {
@@ -400,7 +400,7 @@
               "text": "2.45%"
             },
             "col6": {
-              "text": "<div ><div style=\"width: 2.45%; background: ; font-size: 10px; line-height: 20px;\">"
+              "text": "<div >"
             }
           },
           {
@@ -421,7 +421,7 @@
               "text": "2.25%"
             },
             "col6": {
-              "text": "<div ><div style=\"width: 0.39%; background: #fa8; font-size: 10px; line-height: 20px;\">"
+              "text": ""
             }
           },
           {
