@@ -28,7 +28,7 @@
                 {
                   "text": "Philip Davis",
                   "type": "internal",
-                  "page": "Philip \"Brave\" Davis"
+                  "page": "Philip Davis (Bahamian politician)"
                 },
                 {
                   "text": "Minister of Tourism and Aviation",
@@ -82,7 +82,7 @@
               {
                 "text": "Philip Davis",
                 "type": "internal",
-                "page": "Philip \"Brave\" Davis"
+                "page": "Philip Davis (Bahamian politician)"
               }
             ]
           },
@@ -146,9 +146,6 @@
               }
             ]
           },
-          "nationality": {
-            "text": "Bahamian"
-          },
           "spouse": {
             "text": "Cecelia Cooper"
           },
@@ -157,11 +154,19 @@
             "number": 3
           },
           "alma_mater": {
-            "text": "Acadia University, Nova Southeastern University, Harvard University",
+            "text": "Acadia University Nova Southeastern University Harvard University",
             "links": [
               {
                 "type": "internal",
-                "page": "Acadia University, Nova Southeastern University, Harvard University"
+                "page": "Acadia University"
+              },
+              {
+                "type": "internal",
+                "page": "Nova Southeastern University"
+              },
+              {
+                "type": "internal",
+                "page": "Harvard University"
               }
             ]
           }
@@ -258,11 +263,12 @@
               "text": "He was one of four PLP candidates to win or retain their seat that election."
             },
             {
-              "text": "Whilst in Opposition, he became Deputy Leader of the PLP to Leader Philip \"Brave\" Davis.",
+              "text": "Whilst in Opposition, he became Deputy Leader of the PLP to Leader Philip Davis.",
               "links": [
                 {
+                  "text": "Philip Davis",
                   "type": "internal",
-                  "page": "Philip \"Brave\" Davis"
+                  "page": "Philip Davis (Bahamian politician)"
                 }
               ]
             },
