@@ -145,43 +145,6 @@
           "type": "web"
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        }
-      ]
-    },
-    {
-      "title": "External links",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": []
-        }
-      ],
-      "templates": [
-        {
-          "template": "current members of the bahamas house of assembly"
-        }
-      ],
-      "lists": [
-        [
-          {
-            "text": "PLP Profile",
-            "links": [
-              {
-                "text": "PLP Profile",
-                "type": "external",
-                "site": "https://plpbahamas.org/patriciadeveaux/"
-              }
-            ]
-          }
-        ]
-      ]
     }
   ]
 }

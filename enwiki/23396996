@@ -169,34 +169,6 @@
           "inline": {}
         }
       ]
-    },
-    {
-      "title": "External links",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": []
-        }
-      ],
-      "templates": [
-        {
-          "template": "law-bio-stub"
-        }
-      ],
-      "lists": [
-        [
-          {
-            "text": "Munroe & Associates",
-            "links": [
-              {
-                "text": "Munroe & Associates",
-                "type": "external",
-                "site": "http://munroelawbahamas.com/index.php"
-              }
-            ]
-          }
-        ]
-      ]
     }
   ]
 }
