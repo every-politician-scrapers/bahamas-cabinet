@@ -2,6 +2,7 @@ position,person,personID,start,end,gender,DOB,DOD,image,enwiki
 monarch,Elizabeth II,Q9682,1973-07-10,,female,1926-04-21,,Queen Elizabeth II in March 2015.jpg,Elizabeth II
 Governor-General,Orville Turnquest,Q7105259,1995-01-03,2001-11-13,male,1929,,,Orville Turnquest
 Governor-General,Ivy Dumont,Q287956,2002-01-01,2005-11-30,female,1930-10-02,,,Ivy Dumont
+Governor-General,Paul Adderley,Q2048332,2005-12-01,2006-02-01,male,1928-08-15,2012-09-19,,Paul Adderley
 Governor-General,Arthur Foulkes,Q175892,2010-04-14,,male,1928-05-11,,Arthur Foulkes (cropped).jpg,Arthur Foulkes
 Prime Minister,Hubert Ingraham,Q317664,1992-08-21,2002-05-03,male,1947-08-04,,Hubert Ingraham.jpg,Hubert Ingraham
 Prime Minister,Perry Christie,Q57705,2002-05-03,2005-05-04,male,1943-08-21,,Perry Christie January 2015.jpg,Perry Christie
@@ -16,7 +17,7 @@ Deputy Prime Minister,Desmond Thomas Bannister,Q108030394,2017-05-15,2021-09-17,
 Deputy Prime Minister,Chester Cooper,Q108674257,2021-09-17,,male,1964-08-22,,,Chester Cooper
 Minister of Agriculture and Marine Resources,Michael Clifton Pintard,Q108030420,2018-07-04,2021-09-17,male,1964-07-03,,,Michael Pintard
 Minister of Agriculture and Marine Resources,Clay Sweeting,Q109462470,2021-09-22,,,,,,
-Minister of Economic Affairs,Michael Halkitis,Q109462938,2021-09-20,,,,,,
+Minister of Economic Affairs,Michael Halkitis,Q109462938,2021-09-20,,male,,,,
 Minister of Education,Jeffrey Leonard Lloyd,Q108030438,2017-05-15,2021-09-17,,,,,
 Minister of Education,Glenys Hanna Martin,Q19561395,2021-09-20,,female,1958-10-27,,GlenysHanna-Martin.jpg,Glenys Hanna Martin
 Minister of the Environment and Housing,Romauld Sotario Ferreira,Q108030412,2017-05-15,2021-09-17,,,,,
@@ -30,13 +31,13 @@ Minister of Foreign Affairs and Public Service,Fred Mitchell,Q3086904,2012-05,20
 Minister of Foreign Affairs and Public Service,Fred Mitchell,Q3086904,2021-09-20,,male,1953-10-05,,Fred Mitchell (Bahamas)(cropped).jpg,Fred Mitchell (Bahamian politician)
 Minister for Grand Bahama,Ginger Moxey,Q109462791,2021-09-20,,,,,,
 Minister of Health,Renward Wells,Q7313601,2020-07-20,2021-09-17,male,1970-02-23,,Renward Wells - 2019 (48230138911) (cropped).jpg,Renward Wells
-Minister of Health,Michael Darville,Q109462910,2021-09-20,,,,,,
-Minister of Labour and Immigration,Keith Bell,Q109462898,2021-09-20,,,,,,
+Minister of Health,Michael Darville,Q109462910,2021-09-20,,male,,,,
+Minister of Labour and Immigration,Keith Bell,Q109462898,2021-09-20,,male,,,,
 Minister of National Security,Marvin Hanlon Dames,Q108030430,2017-05-15,2021-09-17,,,,,
 Minister of National Security,Wayne Munroe,Q7976498,2021-09-20,,male,,,,Wayne Munroe
 Minister of the Public Service and National Insurance,Brensil Dennis Rolle,Q108030516,2018-07-04,2021-09-17,,,,,
 Minister of Public Works and Utilities,Desmond Thomas Bannister,Q108030394,2017-05-22,2021-09-17,,,,,
-Minister of Public Works and Utilities,Alfred Sears,Q109462441,2021-09-22,,,,,,
+Minister of Public Works and Utilities,Alfred Sears,Q109462441,2021-09-22,,male,,,,
 Minister of Social Services and Urban Development,Frankie Alfred Campbell,Q108030444,2018-07-04,2021-09-17,,,,,
 Minister of Social Services and Urban Development,Obediah Wilchcombe,Q109462976,2021-09-20,,,,,,
 Minister of Tourism and Aviation,Glenys Hanna Martin,Q19561395,2002,2007,female,1958-10-27,,GlenysHanna-Martin.jpg,Glenys Hanna Martin
@@ -58,11 +59,11 @@ Minister of State in the Ministry of Education and Technical & Vocational Traini
 Minister of State in the Ministry of Social Services and Urban Development,Lisa Rahming,Q108938054,2021-09-23,,female,,,Lisa Rahming.png,Lisa Rahming
 Minister of State in the Office of the Prime Minister,Myles LaRoda,Q109462970,2021-09-20,,,,,,
 Leader of Government Business in the House of Assembly,Obediah Wilchcombe,Q109462976,2021-09-20,,,,,,
-Leader of Government Business in the Senate,Michael Halkitis,Q109462938,2021-09-20,,,,,,
+Leader of Government Business in the Senate,Michael Halkitis,Q109462938,2021-09-20,,male,,,,
 Speaker of the House of Assembly,Patricia Deveaux,Q108990353,2021-09,,female,,,,Patricia Deveaux
 President of the Senate,Lashell Adderley,Q109421249,2021-10-06,,female,,,,Lashell Adderley
 Chief Justice,Michael Barnett,Q105539322,2009,2015,male,1954-08-21,,,
-Chief Justice,Brian Moree,Q109463694,2019-06-12,,,,,,
+Chief Justice,Brian Moree,Q109463694,2019-06-12,,male,,,,
 Governor of the Central Bank,Julian Francis,Q19376588,1997,2005-06-01,male,1946-10-31,,,
 Governor of the Central Bank,Wendy Craigg,Q16187819,2005-06-01,2015-12-31,female,,,,
 Governor of the Central Bank,John A. Rolle,Q25431474,2016-01,,male,,,,
