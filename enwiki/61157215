@@ -1,0 +1,230 @@
+{
+  "title": "Cornelius A. Smith",
+  "pageID": 61157215,
+  "categories": [
+    "1937 births",
+    "Living people",
+    "Governors-General of the Bahamas",
+    "Government ministers of the Bahamas",
+    "Ambassadors of the Bahamas to the United States",
+    "Knights Grand Cross of the Order of St Michael and St George",
+    "21st-century Bahamian politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Sir Cornelius Alvin Smith, (born 7 April 1937)  is a Bahamian politician and diplomat.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Sir"
+                },
+                {
+                  "text": "Bahamian",
+                  "type": "internal",
+                  "page": "The Bahamas"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Sir Cornelius Alvin Smith"
+                ]
+              }
+            },
+            {
+              "text": "He became the eleventh governor-general of the Bahamas on 28 June 2019.",
+              "links": [
+                {
+                  "text": "governor-general of the Bahamas",
+                  "type": "internal",
+                  "page": "governor-general of the Bahamas"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Governor-General of the Bahamas",
+          "template": "short description"
+        },
+        {
+          "year": "1937",
+          "month": "4",
+          "day": "7",
+          "df": "y",
+          "template": "birth date and age"
+        },
+        {
+          "country": "GBR",
+          "list": [
+            "GCMG"
+          ],
+          "template": "post-nominals"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "His Excellency\nThe Most Honourable\nSir",
+            "links": [
+              {
+                "type": "internal",
+                "page": "His Excellency"
+              },
+              {
+                "type": "internal",
+                "page": "The Most Honourable"
+              },
+              {
+                "type": "internal",
+                "page": "Sir"
+              }
+            ]
+          },
+          "name": {
+            "text": "Cornelius Smith"
+          },
+          "honorific-suffix": {
+            "text": "GCMG ON",
+            "links": [
+              {
+                "type": "internal",
+                "page": "GCMG"
+              },
+              {
+                "text": "ON",
+                "type": "internal",
+                "page": "Order of the Nation (Bahamas)"
+              }
+            ]
+          },
+          "image": {
+            "text": "Cornelius A Smith (2008-01-22).jpg"
+          },
+          "caption": {
+            "text": "Smith in January 2008"
+          },
+          "office": {
+            "text": "11th Governor-General of the Bahamas",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Governor-General of the Bahamas"
+              }
+            ]
+          },
+          "monarch": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Hubert Minnis Philip Davis",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hubert Minnis"
+              },
+              {
+                "text": "Philip Davis",
+                "type": "internal",
+                "page": "Philip Davis (Bahamian politician)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "28 June 2019"
+          },
+          "predecessor": {
+            "text": "Dame Marguerite Pindling",
+            "links": [
+              {
+                "text": "Dame Marguerite Pindling",
+                "type": "internal",
+                "page": "Marguerite Pindling"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "April 7, 1937"
+          },
+          "birth_place": {
+            "text": "North Long Island, Bahamas",
+            "links": [
+              {
+                "text": "Long Island",
+                "type": "internal",
+                "page": "Long Island, Bahamas"
+              },
+              {
+                "type": "internal",
+                "page": "Bahamas"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Clara Elizabeth Knowles"
+          },
+          "party": {
+            "text": "Free National Movement",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Free National Movement"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.thegazette.co.uk/notice/3378369",
+          "title": "CENTRAL CHANCERY OF THE ORDERS OF KNIGHTHOOD",
+          "website": "www.thegazette.co.uk",
+          "accessdate": "Mar 2, 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.allgov.com/officials/smith-cornelius?officialid=28750",
+          "title": "AllGov - Officials",
+          "website": "www.allgov.com",
+          "access-date": "2019-06-28",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.thebahamasweekly.com/publish/bis-news-updates/C_A_Smith_Officially_Appointed_Ambassador_to_Washington_printer.shtml",
+          "title": "thebahamasweekly.com - C.A Smith Officially Appointed Ambassador to Washington",
+          "website": "www.thebahamasweekly.com",
+          "access-date": "2019-06-28",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://bahamaspress.com/2019/06/17/the-cabinet-office-announces-the-honourable-cornelius-a-smith-to-serve-as-the-11th-governor-general-in-an-independent-bahamas/",
+          "title": "The Cabinet Office announces The Honourable Cornelius A. Smith to serve as the 11th Governor-General in an Independent Bahamas! {{!}} Bahamaspress.com",
+          "last": "media",
+          "language": "en-US",
+          "access-date": "2019-06-27",
+          "archive-url": "https://web.archive.org/web/20190627154222/http://bahamaspress.com/2019/06/17/the-cabinet-office-announces-the-honourable-cornelius-a-smith-to-serve-as-the-11th-governor-general-in-an-independent-bahamas/",
+          "archive-date": "2019-06-27",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}
