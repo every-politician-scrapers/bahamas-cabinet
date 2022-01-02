@@ -346,22 +346,6 @@
             "number": 6
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "title": "Philip \"Brave\" Davis",
-          "url": "http://nassauguardian.cyberitas.com/component/candidate/detail/106",
-          "access-date": "2021-10-13",
-          "website": "nassauguardian.cyberitas.com",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

@@ -182,21 +182,6 @@
             "number": 2
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://www.thenassauguardian.com/index.php?option=com_content&view=article&id=30870&Itemid=2",
-          "title": "Home",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.tribune242.com/news/2012/may/07/one-watch-elizabeth/",
-          "title": "One to Watch: Elizabeth",
-          "journal": "Tribune",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
