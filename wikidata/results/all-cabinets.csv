@@ -1,3 +1,3 @@
-ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,isa,isaLabel,parent,parentLabel,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
-,Q108030264,Minnis Cabinet,2017-05-11,11,,,,,2021-09-17,11,Q5015577,Cabinet of the Bahamas,,,,,Q108830246,Davis Cabinet,,,,
-,Q108830246,Davis Cabinet,2021-09-20,11,,,,,,,Q5015577,Cabinet of the Bahamas,,,Q108030264,Minnis Cabinet,,,,,,
+ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
+,Q108030264,Minnis Cabinet,2017-05-11,11,,,,,2021-09-17,11,,,Q108830246,Davis Cabinet,,,,
+,Q108830246,Davis Cabinet,2021-09-20,11,,,,,,,Q108030264,Minnis Cabinet,,,,,,
