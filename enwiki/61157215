@@ -21,10 +21,6 @@
               "text": "Sir Cornelius Alvin Smith, (born 7 April 1937)  is a Bahamian politician and diplomat.",
               "links": [
                 {
-                  "type": "internal",
-                  "page": "Sir"
-                },
-                {
                   "text": "Bahamian",
                   "type": "internal",
                   "page": "The Bahamas"
@@ -55,6 +51,14 @@
           "template": "short description"
         },
         {
+          "country": "GBR",
+          "size": "100%",
+          "list": [
+            "GCMG"
+          ],
+          "template": "post-nominals"
+        },
+        {
           "year": "1937",
           "month": "4",
           "day": "7",
@@ -62,25 +66,23 @@
           "template": "birth date and age"
         },
         {
-          "country": "GBR",
-          "list": [
-            "GCMG"
-          ],
+          "_list": "GCMG, ON",
           "template": "post-nominals"
         }
       ],
       "infoboxes": [
         {
           "honorific-prefix": {
-            "text": "His Excellency\nThe Most Honourable\nSir",
+            "text": "His Excellency the Most Honourable Sir",
             "links": [
               {
                 "type": "internal",
                 "page": "His Excellency"
               },
               {
+                "text": "the Most Honourable",
                 "type": "internal",
-                "page": "The Most Honourable"
+                "page": "the Most Honourable"
               },
               {
                 "type": "internal",
@@ -92,12 +94,8 @@
             "text": "Cornelius Smith"
           },
           "honorific-suffix": {
-            "text": "GCMG ON",
+            "text": "ON",
             "links": [
-              {
-                "type": "internal",
-                "page": "GCMG"
-              },
               {
                 "text": "ON",
                 "type": "internal",
@@ -130,7 +128,7 @@
             ]
           },
           "primeminister": {
-            "text": "Hubert Minnis Philip Davis",
+            "text": "Hubert Minnis\nPhilip Davis",
             "links": [
               {
                 "type": "internal",
@@ -155,6 +153,9 @@
                 "page": "Marguerite Pindling"
               }
             ]
+          },
+          "birth_name": {
+            "text": "Cornelius Alvin Smith"
           },
           "birth_date": {
             "text": "April 7, 1937"

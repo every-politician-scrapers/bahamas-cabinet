@@ -7,7 +7,8 @@
     "21st-century Bahamian politicians",
     "Women legislative speakers",
     "Speakers of the House of Assembly of the Bahamas",
-    "Year of birth missing (living people)"
+    "1968 births",
+    "Progressive Liberal Party politicians"
   ],
   "sections": [
     {
@@ -17,7 +18,7 @@
         {
           "sentences": [
             {
-              "text": "Patricia Ann Deveaux is a Bahamian Progressive Liberal Party politician serving as Speaker of the House of Assembly and the Member of Parliament (MP) for Bamboo Town.",
+              "text": "Patricia Ann Deveaux (born 1968 ) is a Bahamian Progressive Liberal Party politician serving as Speaker of the House of Assembly and the Member of Parliament (MP) for Bamboo Town.",
               "links": [
                 {
                   "type": "internal",
@@ -82,7 +83,7 @@
             "text": "Sylvannus Petty"
           },
           "term_start": {
-            "text": "September 2021"
+            "text": "7 October 2021"
           },
           "predecessor": {
             "text": "Halson Moultrie",
@@ -107,6 +108,10 @@
                 "page": "Renward Wells"
               }
             ]
+          },
+          "birth_date": {
+            "text": "1968",
+            "number": 1968
           },
           "party": {
             "text": "Progressive Liberal Party",
