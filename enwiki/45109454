@@ -23,7 +23,7 @@
         {
           "sentences": [
             {
-              "text": "Glenys Margaret Elaine Hanna-Martin (born 27 October 1958) is a Bahamian Progressive Liberal Party politician and lawyer serving as Minister of Education since 2021.",
+              "text": "Glenys Margaret Elaine Hanna-Martin (née Hanna; born 27 October 1958) is a Bahamian Progressive Liberal Party politician and lawyer serving as Minister of Education since 2021.",
               "links": [
                 {
                   "type": "internal",
@@ -32,7 +32,8 @@
               ],
               "formatting": {
                 "bold": [
-                  "Glenys Margaret Elaine Hanna-Martin"
+                  "Glenys Margaret Elaine Hanna-Martin",
+                  "Hanna"
                 ]
               }
             },
