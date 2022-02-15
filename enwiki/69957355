@@ -1,0 +1,61 @@
+{
+  "title": "Ginger Moxey",
+  "pageID": 69957355,
+  "categories": [
+    "Living people",
+    "Members of the House of Assembly of the Bahamas",
+    "Progressive Liberal Party politicians",
+    "21st-century Bahamian politicians",
+    "21st-century Bahamian women politicians",
+    "People from Grand Bahama"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Ginger Moxey is a Bahamian businesswoman and politician.",
+              "formatting": {
+                "bold": [
+                  "Ginger Moxey"
+                ]
+              }
+            },
+            {
+              "text": "She has been Member of Parliament for Pineridge since 2021.",
+              "links": [
+                {
+                  "text": "Member of Parliament",
+                  "type": "internal",
+                  "page": "Member of parliament"
+                },
+                {
+                  "text": "Pineridge",
+                  "type": "internal",
+                  "page": "Pineridge (Bahamas Parliament constituency)"
+                },
+                {
+                  "text": "2021",
+                  "type": "internal",
+                  "page": "2021 Bahamian general election"
+                }
+              ]
+            },
+            {
+              "text": "She previously served as vice president of Grand Bahama Port Authority, resigning from the position in 2014 to pursue other ventures."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Bahamian businesswoman and politician",
+          "template": "short description"
+        }
+      ]
+    }
+  ]
+}
