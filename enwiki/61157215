@@ -73,7 +73,7 @@
       "infoboxes": [
         {
           "honorific-prefix": {
-            "text": "His Excellency\nthe Most Honourable Sir",
+            "text": "His Excellency the Most Honourable Sir",
             "links": [
               {
                 "type": "internal",
@@ -109,14 +109,11 @@
           "caption": {
             "text": "Smith in January 2008"
           },
+          "order": {
+            "text": "11th"
+          },
           "office": {
-            "text": "11th Governor-General of the Bahamas",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Governor-General of the Bahamas"
-              }
-            ]
+            "text": "Governor-General of the Bahamas"
           },
           "monarch": {
             "text": "Elizabeth II",
