@@ -1,237 +1,28 @@
 {
-  "title": "Glenys Hanna Martin",
-  "pageID": 45109454,
-  "categories": [
-    "Members of the Parliament of the Bahamas",
-    "Living people",
-    "Government ministers of the Bahamas",
-    "1958 births",
-    "Progressive Liberal Party politicians",
-    "People from Nassau, Bahamas",
-    "Women government ministers of the Bahamas",
-    "21st-century Bahamian women politicians",
-    "21st-century Bahamian politicians",
-    "People educated at Padworth College",
-    "20th-century Bahamian women politicians",
-    "20th-century Bahamian politicians"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Glenys Margaret Elaine Hanna-Martin (née Hanna; born 27 October 1958) is a Bahamian Progressive Liberal Party politician and lawyer serving as Minister of Education since 2021.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Progressive Liberal Party"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Glenys Margaret Elaine Hanna-Martin",
-                  "Hanna"
-                ]
-              }
-            },
-            {
-              "text": "She has been the Member of Parliament (MP) for Englerston since 2002, making her the country's longest serving female parliamentarian.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Englerston"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "In 2008, Hanna-Martin became the first woman to hold the position of Chairman of a political party in The Bahamas."
-            },
-            {
-              "text": "She was the Minister of Transport and Aviation from 2002 to 2007 and 2012 to 2017."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Bahamian politician and lawyer (born 1958)",
-          "template": "short description"
-        },
-        {
-          "year": "1958",
-          "month": "10",
-          "day": "27",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Glenys Hanna-Martin"
-          },
-          "image": {
-            "text": "Glenys Hanna-Martin.png"
-          },
-          "office": {
-            "text": "Minister of Education, Technical and Vocational Training",
-            "links": [
-              {
-                "text": "Minister of Education, Technical and Vocational Training",
-                "type": "internal",
-                "page": "Cabinet of the Bahamas"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Philip Davis",
-            "links": [
-              {
-                "text": "Philip Davis",
-                "type": "internal",
-                "page": "Philip \"Brave\" Davis"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "September 20, 2021"
-          },
-          "predecessor": {
-            "text": "Jeffrey Lloyd"
-          },
-          "office1": {
-            "text": "Minister of Tourism and Aviation",
-            "links": [
-              {
-                "text": "Minister of Tourism and Aviation",
-                "type": "internal",
-                "page": "Bahamas Ministry of Tourism and Aviation"
-              }
-            ]
-          },
-          "primeminister1": {
-            "text": "Perry Christie",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Perry Christie"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "2012",
-            "number": 2012
-          },
-          "term_end1": {
-            "text": "2017",
-            "number": 2017
-          },
-          "successor1": {
-            "text": "Dionisio D'Aguilar",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Dionisio D'Aguilar"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "2002",
-            "number": 2002
-          },
-          "term_end2": {
-            "text": "2007",
-            "number": 2007
-          },
-          "successor2": {
-            "text": "Vincent Vanderpool-Wallace"
-          },
-          "office3": {
-            "text": "Member of Parliament for Englerston",
-            "links": [
-              {
-                "text": "Member of Parliament",
-                "type": "internal",
-                "page": "Parliament of the Bahamas"
-              },
-              {
-                "type": "internal",
-                "page": "Englerston"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "2002",
-            "number": 2002
-          },
-          "predecessor3": {
-            "text": "Philip C. Galanis"
-          },
-          "birth_name": {
-            "text": "Glenys Margaret Elaine Hanna"
-          },
-          "birth_date": {
-            "text": "October 27, 1958"
-          },
-          "birth_place": {
-            "text": "Nassau, Bahamas",
-            "links": [
-              {
-                "text": "Nassau",
-                "type": "internal",
-                "page": "Nassau, Bahamas"
-              }
-            ]
-          },
-          "citizenship": {
-            "text": "Bahamas"
-          },
-          "alma_mater": {
-            "text": "York University\n\nUniversity of Buckingham",
-            "links": [
-              {
-                "type": "internal",
-                "page": "York University"
-              },
-              {
-                "type": "internal",
-                "page": "University of Buckingham"
-              }
-            ]
-          },
-          "party": {
-            "text": "Progressive Liberal Party",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Progressive Liberal Party"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Leon \"Onni\" Martin"
-          },
-          "children": {
-            "text": "3",
-            "number": 3
-          },
-          "father": {
-            "text": "Arthur Dion Hanna",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Arthur Dion Hanna"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Glenys Hanna-Martin",
+  "image": "Glenys Hanna-Martin.png",
+  "office": "Minister of Education, Technical and Vocational Training",
+  "primeminister": "Philip Davis",
+  "term_start": "September 20, 2021",
+  "predecessor": "Jeffrey Lloyd",
+  "office1": "Minister of Tourism and Aviation",
+  "primeminister1": "Perry Christie",
+  "term_start1": "2012",
+  "term_end1": "2017",
+  "successor1": "Dionisio D'Aguilar",
+  "term_start2": "2002",
+  "term_end2": "2007",
+  "successor2": "Vincent Vanderpool-Wallace",
+  "office3": "Member of Parliament for Englerston",
+  "term_start3": "2002",
+  "predecessor3": "Philip C. Galanis",
+  "birth_name": "Glenys Margaret Elaine Hanna",
+  "birth_date": "October 27, 1958",
+  "birth_place": "Nassau, Bahamas",
+  "citizenship": "Bahamas",
+  "alma_mater": "York University\n\nUniversity of Buckingham",
+  "party": "Progressive Liberal Party",
+  "spouse": "Leon \"Onni\" Martin",
+  "children": "3",
+  "father": "Arthur Dion Hanna"
 }
