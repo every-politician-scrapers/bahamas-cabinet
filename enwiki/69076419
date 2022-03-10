@@ -1,133 +1,14 @@
 {
-  "title": "Patricia Deveaux",
-  "pageID": 69076419,
-  "categories": [
-    "Living people",
-    "21st-century Bahamian women politicians",
-    "21st-century Bahamian politicians",
-    "Women legislative speakers",
-    "Speakers of the House of Assembly of the Bahamas",
-    "1968 births",
-    "Progressive Liberal Party politicians"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Patricia Ann Deveaux (born 1968 ) is a Bahamian Progressive Liberal Party politician serving as Speaker of the House of Assembly and the Member of Parliament (MP) for Bamboo Town.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Progressive Liberal Party"
-                },
-                {
-                  "text": "Speaker of the House of Assembly",
-                  "type": "internal",
-                  "page": "List of speakers of the House of Assembly of the Bahamas"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Patricia Ann Deveaux"
-                ]
-              }
-            },
-            {
-              "text": "She is the second woman to hold the position of Speaker after Italia Johnson.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Italia Johnson"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Bahamian politician",
-          "template": "short description"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Patricia Deveaux"
-          },
-          "office": {
-            "text": "55th Speaker of the House of Assembly of the Bahamas",
-            "links": [
-              {
-                "text": "Speaker of the House of Assembly of the Bahamas",
-                "type": "internal",
-                "page": "List of speakers of the House of Assembly of the Bahamas"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Philip Davis",
-            "links": [
-              {
-                "text": "Philip Davis",
-                "type": "internal",
-                "page": "Philip Davis (Bahamian politician)"
-              }
-            ]
-          },
-          "deputy": {
-            "text": "Sylvannus Petty"
-          },
-          "term_start": {
-            "text": "7 October 2021"
-          },
-          "predecessor": {
-            "text": "Halson Moultrie",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Halson Moultrie"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Member of Parliament for Bamboo Town"
-          },
-          "term_start1": {
-            "text": "September 2021"
-          },
-          "predecessor1": {
-            "text": "Renward Wells",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Renward Wells"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "1968",
-            "number": 1968
-          },
-          "party": {
-            "text": "Progressive Liberal Party",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Progressive Liberal Party"
-              }
-            ]
-          },
-          "children": {
-            "text": "1",
-            "number": 1
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Patricia Deveaux",
+  "office": "55th Speaker of the House of Assembly of the Bahamas",
+  "primeminister": "Philip Davis",
+  "deputy": "Sylvannus Petty",
+  "term_start": "7 October 2021",
+  "predecessor": "Halson Moultrie",
+  "office1": "Member of Parliament for Bamboo Town",
+  "term_start1": "September 2021",
+  "predecessor1": "Renward Wells",
+  "birth_date": "1968",
+  "party": "Progressive Liberal Party",
+  "children": "1"
 }

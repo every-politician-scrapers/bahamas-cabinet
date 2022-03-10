@@ -1,149 +1,17 @@
 {
-  "title": "Pia Glover-Rolle",
-  "pageID": 69060748,
-  "categories": [
-    "Living people",
-    "1977 births",
-    "People from Nassau, Bahamas",
-    "Members of the Parliament of the Bahamas",
-    "21st-century Bahamian women politicians",
-    "21st-century Bahamian politicians",
-    "Women government ministers of the Bahamas",
-    "Government ministers of the Bahamas",
-    "Progressive Liberal Party politicians"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Pia T. Glover-Rolle (born 18 April 1977) is a Bahamian Progressive Liberal Party politician, entrepreneur, and philanthropist who has been serving as the Bahamian Minister of State for Public Service since 23 September 2021 and the Member of Parliament from Golden Gates.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Progressive Liberal Party"
-                },
-                {
-                  "text": "Member of Parliament",
-                  "type": "internal",
-                  "page": "Parliament of the Bahamas"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Pia T. Glover-Rolle"
-                ]
-              }
-            },
-            {
-              "text": "Glover Rolle defeated FNM incumbent Michael Foulkes in the 2021 general election.",
-              "links": [
-                {
-                  "text": "FNM",
-                  "type": "internal",
-                  "page": "Free National Movement"
-                },
-                {
-                  "text": "Michael Foulkes",
-                  "type": "internal",
-                  "page": "Michael Foulkes (Bahamian politician)"
-                },
-                {
-                  "text": "2021 general election",
-                  "type": "internal",
-                  "page": "2021 Bahamian general election"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "df": "y",
-          "year": "1977",
-          "month": "4",
-          "day": "18",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "party": {
-            "text": "Progressive Liberal Party",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Progressive Liberal Party"
-              }
-            ]
-          },
-          "honorific-suffix": {
-            "text": "M.P."
-          },
-          "image": {
-            "text": "Pia Glover-Rolle.png"
-          },
-          "office": {
-            "text": "Minister of State for Public Service"
-          },
-          "primeminister": {
-            "text": "Philip \"Brave\" Davis",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Philip \"Brave\" Davis"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "23 September 2021"
-          },
-          "name": {
-            "text": "Pia Glover-Rolle"
-          },
-          "term_start1": {
-            "text": "6 October 2021"
-          },
-          "office1": {
-            "text": "Member of Parliament for Golden Gates"
-          },
-          "predecessor1": {
-            "text": "Michael Foulkes",
-            "links": [
-              {
-                "text": "Michael Foulkes",
-                "type": "internal",
-                "page": "Michael Foulkes (Bahamian politician)"
-              }
-            ]
-          },
-          "majority1": {
-            "text": "695 (20%)"
-          },
-          "birth_name": {
-            "text": "Pia T. Glover"
-          },
-          "birth_date": {
-            "text": "April 18, 1977"
-          },
-          "birth_place": {
-            "text": "Nassau, Bahamas",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nassau, Bahamas"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Herman N. Rolle"
-          }
-        }
-      ]
-    }
-  ]
+  "party": "Progressive Liberal Party",
+  "honorific-suffix": "M.P.",
+  "image": "Pia Glover-Rolle.png",
+  "office": "Minister of State for Public Service",
+  "primeminister": "Philip \"Brave\" Davis",
+  "term_start": "23 September 2021",
+  "name": "Pia Glover-Rolle",
+  "term_start1": "6 October 2021",
+  "office1": "Member of Parliament for Golden Gates",
+  "predecessor1": "Michael Foulkes",
+  "majority1": "695 (20%)",
+  "birth_name": "Pia T. Glover",
+  "birth_date": "April 18, 1977",
+  "birth_place": "Nassau, Bahamas",
+  "spouse": "Herman N. Rolle"
 }

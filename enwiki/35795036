@@ -1,188 +1,25 @@
 {
-  "title": "Ryan Pinder",
-  "pageID": 35795036,
-  "categories": [
-    "Living people",
-    "Attorneys General of the Bahamas",
-    "Bahamian people of American descent",
-    "Bahamian lawyers",
-    "Barristers and advocates",
-    "Former United States citizens",
-    "Government ministers of the Bahamas",
-    "Members of the House of Assembly of the Bahamas",
-    "Members of the Senate of the Bahamas",
-    "People from Nassau, Bahamas",
-    "Progressive Liberal Party politicians",
-    "University of Miami Business School alumni",
-    "University of Miami School of Law alumni",
-    "1973 births"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Leo Ryan Pinder (born 13 September 1974) is a Bahamian lawyer and Progressive Liberal Party politician who has served in the Bahamas Senate and as Attorney-General and Minister of Legal Affairs since September 2021.",
-              "links": [
-                {
-                  "text": "Bahamian",
-                  "type": "internal",
-                  "page": "The Bahamas"
-                },
-                {
-                  "type": "internal",
-                  "page": "Progressive Liberal Party"
-                },
-                {
-                  "text": "Bahamas Senate",
-                  "type": "internal",
-                  "page": "Senate of the Bahamas"
-                },
-                {
-                  "text": "Attorney-General and Minister of Legal Affairs",
-                  "type": "internal",
-                  "page": "Office of the Attorney-General & Ministry of Legal Affairs (Bahamas)"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Leo Ryan Pinder"
-                ]
-              }
-            },
-            {
-              "text": "He was previously a Member of Parliament (MP) for Elizabeth from 2010 to 2017."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "df": "y",
-          "year": "1973",
-          "month": "9",
-          "day": "13",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Ryan Pinder"
-          },
-          "office": {
-            "text": "Minister for Legal Affairs and Attorney-General",
-            "links": [
-              {
-                "text": "Minister for Legal Affairs and Attorney-General",
-                "type": "internal",
-                "page": "Office of the Attorney-General & Ministry of Legal Affairs (Bahamas)"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "September 2021"
-          },
-          "predecessor": {
-            "text": "Carl Bethel"
-          },
-          "office2": {
-            "text": "Senator"
-          },
-          "term_start2": {
-            "text": "September 2021"
-          },
-          "office3": {
-            "text": "Minister of Financial Services"
-          },
-          "primeminister3": {
-            "text": "Perry Christie",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Perry Christie"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "May 2012"
-          },
-          "term_end3": {
-            "text": "December 2014"
-          },
-          "successor3": {
-            "text": "Hope Strachan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Hope Strachan"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Member of Parliament for Elizabeth"
-          },
-          "term_start4": {
-            "text": "April 2010"
-          },
-          "term_end4": {
-            "text": "May 2017"
-          },
-          "predecessor4": {
-            "text": "Malcolm Adderley"
-          },
-          "successor4": {
-            "text": "Duane Sands"
-          },
-          "birth_name": {
-            "text": "Leo Ryan Pinder"
-          },
-          "birth_date": {
-            "text": "September 13, 1973"
-          },
-          "birth_place": {
-            "text": "Nassau, Bahamas",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nassau, Bahamas"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "University of Miami\n\nEugene Dupuch Law School",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of Miami"
-              },
-              {
-                "type": "internal",
-                "page": "Eugene Dupuch Law School"
-              }
-            ]
-          },
-          "party": {
-            "text": "Progressive Liberal Party",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Progressive Liberal Party"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Melissa Calvin Pinder"
-          },
-          "children": {
-            "text": "2",
-            "number": 2
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Ryan Pinder",
+  "office": "Minister for Legal Affairs and Attorney-General",
+  "term_start": "September 2021",
+  "predecessor": "Carl Bethel",
+  "office2": "Senator",
+  "term_start2": "September 2021",
+  "office3": "Minister of Financial Services",
+  "primeminister3": "Perry Christie",
+  "term_start3": "May 2012",
+  "term_end3": "December 2014",
+  "successor3": "Hope Strachan",
+  "office4": "Member of Parliament for Elizabeth",
+  "term_start4": "April 2010",
+  "term_end4": "May 2017",
+  "predecessor4": "Malcolm Adderley",
+  "successor4": "Duane Sands",
+  "birth_name": "Leo Ryan Pinder",
+  "birth_date": "September 13, 1973",
+  "birth_place": "Nassau, Bahamas",
+  "alma_mater": "University of Miami\n\nEugene Dupuch Law School",
+  "party": "Progressive Liberal Party",
+  "spouse": "Melissa Calvin Pinder",
+  "children": "2"
 }

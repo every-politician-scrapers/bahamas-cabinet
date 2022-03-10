@@ -1,195 +1,22 @@
 {
-  "title": "JoBeth Coleby-Davis",
-  "pageID": 68749464,
-  "categories": [
-    "Living people",
-    "1984 births",
-    "Alumni of Keele University",
-    "Alumni of Nottingham Trent University",
-    "Alumni of the University of Dundee",
-    "Bahamian lawyers",
-    "Members of the House of Assembly of the Bahamas",
-    "Members of the Senate of the Bahamas",
-    "Progressive Liberal Party politicians",
-    "University of the Bahamas alumni",
-    "21st-century Bahamian women politicians",
-    "21st-century Bahamian politicians",
-    "Women government ministers of the Bahamas"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "JoBeth Lillian Coleby-Davis (born 17 July 1984) is a Bahamian Progressive Liberal Party politician and attorney who has been the Bahamian Minister of Housing and Transport since 23 September 2021 and the Member of Parliament (MP) for Elizabeth since 6 October 2021.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Progressive Liberal Party"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "JoBeth Lillian Coleby-Davis"
-                ]
-              }
-            },
-            {
-              "text": "Coleby-Davis defeated the FNM incumbent Duane Sands in the 2021 general election.",
-              "links": [
-                {
-                  "text": "FNM",
-                  "type": "internal",
-                  "page": "Free National Movement"
-                },
-                {
-                  "text": "2021 general election",
-                  "type": "internal",
-                  "page": "2021 Bahamian general election"
-                }
-              ]
-            },
-            {
-              "text": "She previously served in the Senate from 2017 to 2021.",
-              "links": [
-                {
-                  "text": "Senate",
-                  "type": "internal",
-                  "page": "Senate of the Bahamas"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Bahamian politician",
-          "template": "short description"
-        },
-        {
-          "date": "September 2021",
-          "template": "use dmy dates"
-        },
-        {
-          "df": "y",
-          "year": "1984",
-          "month": "7",
-          "day": "17",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "JoBeth Coleby-Davis"
-          },
-          "image": {
-            "text": "JoBeth Coleby-Davis.png"
-          },
-          "office": {
-            "text": "Minister of Transport and Housing"
-          },
-          "primeminister": {
-            "text": "Philip \"Brave\" Davis",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Philip \"Brave\" Davis"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "23 September 2021"
-          },
-          "office1": {
-            "text": "Member of Parliament for Elizabeth"
-          },
-          "term_start1": {
-            "text": "6 October 2021"
-          },
-          "predecessor1": {
-            "text": "Duane Sands",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Duane Sands"
-              }
-            ]
-          },
-          "majority1": {
-            "text": "377 (9.74%)"
-          },
-          "office2": {
-            "text": "Bahamas Senator"
-          },
-          "primeminister2": {
-            "text": "Hubert Minnis",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Hubert Minnis"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "May 2017"
-          },
-          "term_end2": {
-            "text": "September 2021"
-          },
-          "birth_name": {
-            "text": "JoBeth Lillian Coleby"
-          },
-          "birth_date": {
-            "text": "July 17, 1984"
-          },
-          "birth_place": {
-            "text": "Freeport, Bahamas",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Freeport, Bahamas"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "College of the Bahamas\n\nKeele University\n\nUniversity of Dundee",
-            "links": [
-              {
-                "type": "internal",
-                "page": "College of the Bahamas"
-              },
-              {
-                "type": "internal",
-                "page": "Keele University"
-              },
-              {
-                "type": "internal",
-                "page": "University of Dundee"
-              }
-            ]
-          },
-          "party": {
-            "text": "Progressive Liberal Party",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Progressive Liberal Party"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Donavon Davis Jr"
-          },
-          "website": {
-            "text": "https://www.jobethforelizabeth.com/"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "JoBeth Coleby-Davis",
+  "image": "JoBeth Coleby-Davis.png",
+  "office": "Minister of Transport and Housing",
+  "primeminister": "Philip \"Brave\" Davis",
+  "term_start": "23 September 2021",
+  "office1": "Member of Parliament for Elizabeth",
+  "term_start1": "6 October 2021",
+  "predecessor1": "Duane Sands",
+  "majority1": "377 (9.74%)",
+  "office2": "Bahamas Senator",
+  "primeminister2": "Hubert Minnis",
+  "term_start2": "May 2017",
+  "term_end2": "September 2021",
+  "birth_name": "JoBeth Lillian Coleby",
+  "birth_date": "July 17, 1984",
+  "birth_place": "Freeport, Bahamas",
+  "alma_mater": "College of the Bahamas\n\nKeele University\n\nUniversity of Dundee",
+  "party": "Progressive Liberal Party",
+  "spouse": "Donavon Davis Jr",
+  "website": "https://www.jobethforelizabeth.com/"
 }

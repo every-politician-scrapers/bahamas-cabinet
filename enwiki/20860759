@@ -1,235 +1,33 @@
 {
-  "title": "Fred Mitchell (Bahamian politician)",
-  "pageID": 20860759,
-  "categories": [
-    "Living people",
-    "1953 births",
-    "20th-century Bahamian lawyers",
-    "Alumni of the University of Buckingham",
-    "Antioch College alumni",
-    "Bahamian Anglicans",
-    "Bahamian people of Barbadian descent",
-    "Bahamian republicans",
-    "Foreign ministers of the Bahamas",
-    "Government ministers of the Bahamas",
-    "Harvard University alumni",
-    "Members of the House of Assembly of the Bahamas",
-    "Members of the Senate of the Bahamas",
-    "Progressive Liberal Party politicians"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Frederick Audley Mitchell Jr. (born 5 October 1953) is a Bahamian Progressive Liberal Party politician serving as Minister of Foreign Affairs for the third time.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Progressive Liberal Party"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Frederick Audley Mitchell Jr."
-                ]
-              }
-            },
-            {
-              "text": "He is the Member of Parliament (MP) for Fox Hill, first elected in 2002 and then again in 2021."
-            },
-            {
-              "text": "He also served two terms in the Senate."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "list": [
-            "Fred Mitchell"
-          ],
-          "template": "other people"
-        },
-        {
-          "year": "1953",
-          "month": "10",
-          "day": "5",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Fred Mitchell"
-          },
-          "image": {
-            "text": "HonFredMitchell.jpg"
-          },
-          "caption": {
-            "text": "Mitchell in 2016"
-          },
-          "office": {
-            "text": "Minister of Foreign Affairs and Public Service",
-            "links": [
-              {
-                "text": "Minister of Foreign Affairs and Public Service",
-                "type": "internal",
-                "page": "Minister of Foreign Affairs (Bahamas)"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Philip Davis",
-            "links": [
-              {
-                "text": "Philip Davis",
-                "type": "internal",
-                "page": "Philip Davis (Bahamian politician)"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "20 September 2021"
-          },
-          "predecessor": {
-            "text": "Darren Henfield",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Darren Henfield"
-              }
-            ]
-          },
-          "primeminister1": {
-            "text": "Perry Christie",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Perry Christie"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "May 2012"
-          },
-          "term_end1": {
-            "text": "May 2017"
-          },
-          "predecessor1": {
-            "text": "Brent Symonette",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Brent Symonette"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "2002",
-            "number": 2002
-          },
-          "term_end2": {
-            "text": "2007",
-            "number": 2007
-          },
-          "predecessor2": {
-            "text": "Janet Bostwick",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Janet Bostwick"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Member of Parliament for Fox Hill"
-          },
-          "term_start3": {
-            "text": "September 2021"
-          },
-          "predecessor3": {
-            "text": "Shonel Ferguson"
-          },
-          "term_start4": {
-            "text": "2002",
-            "number": 2002
-          },
-          "term_end4": {
-            "text": "May 2017"
-          },
-          "predecessor4": {
-            "text": "Juanianne Dorsette"
-          },
-          "office5": {
-            "text": "Senator"
-          },
-          "term_start5": {
-            "text": "2017",
-            "number": 2017
-          },
-          "term_end5": {
-            "text": "2021",
-            "number": 2021
-          },
-          "term_start6": {
-            "text": "1992",
-            "number": 1992
-          },
-          "term_end6": {
-            "text": "1997",
-            "number": 1997
-          },
-          "birth_date": {
-            "text": "October 5, 1953"
-          },
-          "birth_place": {
-            "text": "Nassau, Bahamas",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nassau, Bahamas"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Bahamian"
-          },
-          "party": {
-            "text": "Progressive Liberal Party (1997–present)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Progressive Liberal Party"
-              }
-            ]
-          },
-          "otherparty": {
-            "text": "Independent (1992–1997)"
-          },
-          "alma_mater": {
-            "text": "Antioch University\n\nHarvard University\n\nUniversity of Buckingham",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Antioch University"
-              },
-              {
-                "type": "internal",
-                "page": "Harvard University"
-              },
-              {
-                "type": "internal",
-                "page": "University of Buckingham"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Fred Mitchell",
+  "image": "HonFredMitchell.jpg",
+  "caption": "Mitchell in 2016",
+  "office": "Minister of Foreign Affairs and Public Service",
+  "primeminister": "Philip Davis",
+  "term_start": "20 September 2021",
+  "predecessor": "Darren Henfield",
+  "primeminister1": "Perry Christie",
+  "term_start1": "May 2012",
+  "term_end1": "May 2017",
+  "predecessor1": "Brent Symonette",
+  "term_start2": "2002",
+  "term_end2": "2007",
+  "predecessor2": "Janet Bostwick",
+  "office3": "Member of Parliament for Fox Hill",
+  "term_start3": "September 2021",
+  "predecessor3": "Shonel Ferguson",
+  "term_start4": "2002",
+  "term_end4": "May 2017",
+  "predecessor4": "Juanianne Dorsette",
+  "office5": "Senator",
+  "term_start5": "2017",
+  "term_end5": "2021",
+  "term_start6": "1992",
+  "term_end6": "1997",
+  "birth_date": "October 5, 1953",
+  "birth_place": "Nassau, Bahamas",
+  "nationality": "Bahamian",
+  "party": "Progressive Liberal Party (1997–present)",
+  "otherparty": "Independent (1992–1997)",
+  "alma_mater": "Antioch University\n\nHarvard University\n\nUniversity of Buckingham"
 }
